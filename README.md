@@ -23,5 +23,5 @@ Passos para a comunicação entre as aplicações.
         4 encerrar conexão.
 
 
-Para executar, inicar primiero o servidor.
+Para executar, iniciar primeiro o servidor.
 
