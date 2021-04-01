@@ -3,7 +3,7 @@
 Protocolo Request-Reply implementado em linguagem Java utilizando Socket, Java oferece suporte para Socket desde o JDK 1.0.
 Os sockets são compostos por um conjunto de primitivas do sistema operacional.
 
-São duas aplicações, uma aplicação servidor e uma aplicação cliente que se através do protocolo TCP (Transmission Control Protocol).
+São duas aplicações, uma aplicação servidor e uma aplicação cliente que se comunicam através do protocolo TCP (Transmission Control Protocol).
 
 Passos para a comunicação entre as aplicações.
 
